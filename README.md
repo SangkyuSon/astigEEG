@@ -1,6 +1,6 @@
 # astigEEG
 
-- Title              : Neural Gain Modulation Propagates from Posterior to Anterior Brain Regions to Optimize Orientation Perception in Chronic Astigmatism
+- Title              : Dynamic Neural Compensation for Distorted Orientation Perception in Chronic Astigmatism
 - Authors            : Sangkyu Son , Hyungoo Kang, HyungGoo R. Kim, Won Mok Shim, and Joonyeol Lee
 - Inquiry about code : Sangkyu Son (ss.sangkyu.son@gmail.com)
 
